@@ -1,0 +1,32 @@
+{
+  "name": "svg2css",
+  "version": "1.0.0",
+  "description": "svg file convert to css class",
+  "main": "null",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasJang/svg2css.git"
+  },
+  "keywords": [
+    "svg",
+    "inline",
+    "css",
+    "data",
+    "image"
+  ],
+  "author": "tom@axisj.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasJang/svg2css/issues"
+  },
+  "homepage": "https://github.com/thomasJang/svg2css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-util": "*",
+    "gulp-mustache": ""
+  }
+}

@@ -1,0 +1,6 @@
+{{#list}}
+.{{className}}{
+    display: inline-block;
+    background-image: url('data:image/svg+xml;utf8, {{{fileContent}}}');
+}
+{{/list}}

@@ -47,6 +47,7 @@ Demo : https://thomasjang.github.io/svg2css/dist/index.html
     background-image: url('data:image/svg+xml;utf8, %3Csvg version=%221.1%22 xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 12 12%22%3E%3Ctitle%3Eprevious%3C/title%3E%3Cpath d=%22M3.098 10.875v-9.75h1.625v4.469l4.063-4.063v8.938l-4.063-4.063v4.469z%22%3E%3C/path%3E%3C/svg%3E');
 }
 ```
+https://github.com/thomasJang/svg2css/blob/master/dist/default.css
 
 ## Usage
  

@@ -3,6 +3,8 @@
 
 Demo : https://thomasjang.github.io/svg2css/dist/index.html
 
+![svg2css](preview.png)
+
 1. Read the SVG file in the 'svg' folder.
 2. Create 'dist / default.css' and 'index.html' files using 'default.css' and 'index.html' in the 'tmpl' folder as a template.
 
